@@ -1,0 +1,15 @@
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.csproj.AssemblyReference.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.GeneratedMSBuildEditorConfig.editorconfig
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.AssemblyInfoInputs.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.AssemblyInfo.cs
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.csproj.CoreCompileInputs.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\bin\Debug\net6.0\Exercise42.exe
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\bin\Debug\net6.0\Exercise42.deps.json
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\bin\Debug\net6.0\Exercise42.runtimeconfig.json
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\bin\Debug\net6.0\Exercise42.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\bin\Debug\net6.0\Exercise42.pdb
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\refint\Exercise42.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.pdb
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\Exercise42.genruntimeconfig.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar06\HomeWork06\Exercise42\obj\Debug\net6.0\ref\Exercise42.dll
